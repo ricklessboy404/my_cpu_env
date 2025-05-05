@@ -1,0 +1,36 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon May  5 12:55:56 2025
+# Process ID         : 23984
+# Current directory  : D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent14752 D:\new_loonson_env\cdp_ede_local\mycpu_env\gettrace\gettrace.xpr
+# Log file           : D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/vivado.log
+# Journal file       : D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace\vivado.jou
+# Running On         : CHINAMI-PTJBI1V
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i7-12700H
+# CPU Frequency      : 2688 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 20
+# Host memory        : 16849 MB
+# Swap memory        : 27917 MB
+# Total Virtual      : 44766 MB
+# Available Virtual  : 27473 MB
+#-----------------------------------------------------------
+start_guopopen_project D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/gettrace.xpr
+update_compile_order -fileset sources_1
+pdate_compile_order -fileset sources_1
+launch_simulation
+source tb_top.tcl
+run all
+relaunch_sim
+run all
+close_sim
+launch_simulation
+source tb_top.tcl
+run all
+close_sim

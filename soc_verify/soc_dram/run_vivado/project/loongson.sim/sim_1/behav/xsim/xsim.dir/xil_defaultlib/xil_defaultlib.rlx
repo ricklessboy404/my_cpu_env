@@ -1,0 +1,14 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/new_loonson_env/cdp_ede_local/mycpu_env/myCPU/alu.v,1746436380,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/soc_verify/soc_dram/testbench/async_ram.v,,alu,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/myCPU/mycpu_top.v,1746431149,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/myCPU/regfile.v,,mycpu_top,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/myCPU/regfile.v,1746420129,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/soc_verify/soc_dram/rtl/soc_lite_top.v,,regfile,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/myCPU/tools.v,1746420129,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/soc_verify/soc_dram/testbench/mycpu_tb.v,,decoder_2_4;decoder_4_16;decoder_5_32;decoder_6_64,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/soc_verify/soc_dram/rtl/BRIDGE/bridge_1x2.v,1746420129,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/soc_verify/soc_dram/rtl/CONFREG/confreg.v,,bridge_1x2,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/soc_verify/soc_dram/rtl/CONFREG/confreg.v,1746420129,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/myCPU/mycpu_top.v,,confreg,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/soc_verify/soc_dram/rtl/soc_lite_top.v,1746420129,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/myCPU/tools.v,,soc_lite_top,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/soc_verify/soc_dram/run_vivado/project/loongson.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/soc_verify/soc_dram/testbench/async_ram.v,1746425671,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/soc_verify/soc_dram/rtl/BRIDGE/bridge_1x2.v,,async_ram;data_ram;inst_ram,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/soc_verify/soc_dram/testbench/mycpu_tb.v,1746423131,verilog,,,,tb_top,,,,,,,,

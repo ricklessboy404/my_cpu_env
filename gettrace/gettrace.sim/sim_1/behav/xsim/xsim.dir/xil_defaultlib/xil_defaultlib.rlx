@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/gettrace.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/src/BRIDGE/bridge_1x2.v,1746420129,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/src/CONFREG/confreg.v,,bridge_1x2,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/src/CONFREG/confreg.v,1746420129,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/src/soc_lite_top.v,,confreg,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/src/myCPU/SimpleLACoreWrapRAM.v,1746420129,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/src/BRIDGE/bridge_1x2.v,,SimpleLACore;SimpleLACoreWrapRAM,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/src/soc_lite_top.v,1746420129,verilog,,D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/src/tb_top.v,,soc_lite_top,,,,,,,,
+D:/new_loonson_env/cdp_ede_local/mycpu_env/gettrace/src/tb_top.v,1746420129,verilog,,,,tb_top,,,,,,,,
